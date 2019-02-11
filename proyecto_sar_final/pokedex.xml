@@ -1,0 +1,3000 @@
+<pokedex>
+    <!-- Gen I -->
+    <pokemon>
+	
+        <species>BULBASAUR</species>
+	<dex>1</dex>
+        <type>Planta</type>
+        <abilities>
+            <ability>Espesura</ability>
+            <dream>Clorofila</dream>
+        </abilities>
+        <baseStats>
+            <HP>45</HP>
+            <ATK>49</ATK>
+            <DEF>49</DEF>
+            <SPD>45</SPD>
+            <SATK>45</SATK>
+            <SDEF>65</SDEF>
+        </baseStats>
+        <experience>64</experience>
+    </pokemon>
+	
+    <pokemon>
+        <species>IVYSAUR</species>
+	<dex>2</dex>
+        <type>Planta</type>
+        <abilities>
+            <ability>Espesura</ability>
+            <dream>Clorofila</dream>
+        </abilities>
+        <baseStats>
+            <HP>60</HP>
+            <ATK>62</ATK>
+            <DEF>63</DEF>
+            <SPD>60</SPD>
+            <SATK>80</SATK>
+            <SDEF>80</SDEF>
+        </baseStats>
+        <experience>64</experience>
+    </pokemon>	
+	
+    <pokemon>
+        <species>VENUSAUR</species>
+        <dex>3</dex>
+	<type>Planta</type>
+        <abilities>
+            <ability>Espesura</ability>
+            <dream>Clorofila</dream>
+        </abilities>
+        <baseStats>
+            <HP>80</HP>
+            <ATK>82</ATK>
+            <DEF>83</DEF>
+            <SPD>80</SPD>
+            <SATK>100</SATK>
+            <SDEF>100</SDEF>
+        </baseStats>
+        <experience>64</experience>
+    </pokemon>
+	
+    <pokemon>
+        <species>CHARMANDER</species>
+	<dex>4</dex>
+            <type>Fuego</type>
+        <abilities>
+            <ability>Mar llamas</ability>
+            <dream>Poder Solar</dream>
+        </abilities>
+        <baseStats>
+            <HP>39</HP>
+            <ATK>52</ATK>
+            <DEF>43</DEF>
+            <SPD>65</SPD>
+            <SATK>60</SATK>
+            <SDEF>50</SDEF>
+        </baseStats>
+        <experience>62</experience>
+    </pokemon>
+	
+    <pokemon>
+        <species>CHARMELEON</species>
+	<dex>5</dex>
+            <type>Fuego</type>
+        <abilities>
+            <ability>Mar llamas</ability>
+            <dream>Poder Solar</dream>
+        </abilities>
+        <baseStats>
+            <HP>58</HP>
+            <ATK>64</ATK>
+            <DEF>58</DEF>
+            <SPD>80</SPD>
+            <SATK>80</SATK>
+            <SDEF>65</SDEF>
+        </baseStats>
+        <experience>72</experience>
+    </pokemon>
+	
+	
+    <pokemon>
+        <species>CHARIZARD</species>
+	<dex>6</dex>
+            <type>Fuego</type>
+        <abilities>
+            <ability>Mar llamas</ability>
+            <dream>Poder Solar</dream>
+        </abilities>
+        <baseStats>
+            <HP>78</HP>
+            <ATK>84</ATK>
+            <DEF>78</DEF>
+            <SPD>100</SPD>
+            <SATK>109</SATK>
+            <SDEF>85</SDEF>
+        </baseStats>
+        <experience>240</experience>
+    </pokemon>
+	
+	
+    <pokemon>
+        <species>SQUIRTLE</species>
+	<dex>7</dex>
+            <type>Agua</type>
+        <abilities>
+            <ability>Torrente</ability>
+            <dream>Cura lluvia</dream>
+        </abilities>
+        <baseStats>
+            <HP>44</HP>
+            <ATK>48</ATK>
+            <DEF>65</DEF>
+            <SPD>43</SPD>
+            <SATK>50</SATK>
+            <SDEF>64</SDEF>
+        </baseStats>
+        <experience>63</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>WARTORTLE</species>
+	<dex>8</dex>
+            <type>Agua</type>
+        <abilities>
+            <ability>Torrente</ability>
+            <dream>Cura lluvia</dream>
+        </abilities>
+        <baseStats>
+            <HP>59</HP>
+            <ATK>63</ATK>
+            <DEF>80</DEF>
+            <SPD>58</SPD>
+            <SATK>65</SATK>
+            <SDEF>80</SDEF>
+        </baseStats>
+        <experience>63</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>BLASTOISE</species>
+	<dex>9</dex>
+            <type>Agua</type>
+        <abilities>
+            <ability>Torrente</ability>
+            <dream>Cura lluvia</dream>
+        </abilities>
+        <baseStats>
+            <HP>79</HP>
+            <ATK>83</ATK>
+            <DEF>100</DEF>
+            <SPD>78</SPD>
+            <SATK>85</SATK>
+            <SDEF>105</SDEF>
+        </baseStats>
+        <experience>63</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>CATERPIE</species>
+	<dex>10</dex>
+            <type>Bicho</type>
+        <abilities>
+            <ability>Polvo escudo</ability>
+            <dream>Fuga</dream>
+        </abilities>
+        <baseStats>
+            <HP>45</HP>
+            <ATK>30</ATK>
+            <DEF>35</DEF>
+            <SPD>45</SPD>
+            <SATK>20</SATK>
+            <SDEF>20</SDEF>
+        </baseStats>
+        <experience>63</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>METAPOD</species>
+	<dex>11</dex>
+            <type>Bicho</type>
+        <abilities>
+            <ability>Mudar</ability>
+            <dream>Fuga</dream>
+        </abilities>
+        <baseStats>
+            <HP>50</HP>
+            <ATK>20</ATK>
+            <DEF>55</DEF>
+            <SPD>30</SPD>
+            <SATK>25</SATK>
+            <SDEF>25</SDEF>
+        </baseStats>
+        <experience>63</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>BUTTERFLY</species>
+	<dex>12</dex>
+            <type>Bicho</type>
+        <abilities>
+            <ability>Mudar</ability>
+            <dream>Fuga</dream>
+        </abilities>
+        <baseStats>
+            <HP>60</HP>
+            <ATK>45</ATK>
+            <DEF>50</DEF>
+            <SPD>70</SPD>
+            <SATK>90</SATK>
+            <SDEF>80</SDEF>
+        </baseStats>
+        <experience>63</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>WEEDLE</species>
+	<dex>13</dex>
+            <type>Bicho</type>
+        <abilities>
+            <ability>Polvo escudo</ability>
+            <dream>Fuga</dream>
+        </abilities>
+        <baseStats>
+            <HP>40</HP>
+            <ATK>35</ATK>
+            <DEF>30</DEF>
+            <SPD>50</SPD>
+            <SATK>20</SATK>
+            <SDEF>20</SDEF>
+        </baseStats>
+        <experience>63</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>KAKUNA</species>
+	<dex>14</dex>
+            <type>Bicho</type>
+        <abilities>
+            <ability>Mudar</ability>
+            <dream>Fuga</dream>
+        </abilities>
+        <baseStats>
+            <HP>45</HP>
+            <ATK>35</ATK>
+            <DEF>50</DEF>
+            <SPD>35</SPD>
+            <SATK>25</SATK>
+            <SDEF>25</SDEF>
+        </baseStats>
+        <experience>63</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>BEEDRILL</species>
+	<dex>15</dex>
+            <type>Bicho</type>
+        <abilities>
+            <ability>Mudar</ability>
+            <dream>Fuga</dream>
+        </abilities>
+        <baseStats>
+            <HP>45</HP>
+            <ATK>30</ATK>
+            <DEF>35</DEF>
+            <SPD>45</SPD>
+            <SATK>20</SATK>
+            <SDEF>20</SDEF>
+        </baseStats>
+        <experience>63</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>PIDGEY</species>
+	<dex>16</dex>
+            <type>Normal</type>
+        <abilities>
+            <ability>Vista lince</ability>
+            <dream>Sacapecho</dream>
+        </abilities>
+        <baseStats>
+            <HP>40</HP>
+            <ATK>45</ATK>
+            <DEF>40</DEF>
+            <SPD>56</SPD>
+            <SATK>35</SATK>
+            <SDEF>35</SDEF>
+        </baseStats>
+        <experience>50</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>PIDGEOTTO</species>
+	<dex>17</dex>
+            <type>Normal</type>
+        <abilities>
+            <ability>Vista lince</ability>
+            <dream>Sacapecho</dream>
+        </abilities>
+        <baseStats>
+            <HP>63</HP>
+            <ATK>60</ATK>
+            <DEF>55</DEF>
+            <SPD>71</SPD>
+            <SATK>50</SATK>
+            <SDEF>50</SDEF>
+        </baseStats>
+        <experience>50</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>PIDGEOT</species>
+	<dex>18</dex>
+            <type>Volador</type>
+        <abilities>
+            <ability>Vista lince</ability>
+            <dream>Sacapecho</dream>
+        </abilities>
+        <baseStats>
+            <HP>83</HP>
+            <ATK>80</ATK>
+            <DEF>75</DEF>
+            <SPD>101</SPD>
+            <SATK>70</SATK>
+            <SDEF>70</SDEF>
+        </baseStats>
+        <experience>50</experience>
+    </pokemon>
+
+
+    <pokemon>
+        <species>RATTATA</species>
+	<dex>19</dex>
+          <type>Normal</type>
+        <abilities>
+            <ability>Fuga</ability>
+            <dream>Entusiasmo</dream>
+        </abilities>
+        <baseStats>
+            <HP>30</HP>
+            <ATK>56</ATK>
+            <DEF>35</DEF>
+            <SPD>72</SPD>
+            <SATK>25</SATK>
+            <SDEF>35</SDEF>
+        </baseStats>
+        <experience>51</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>RATICATE</species>
+	<dex>20</dex>
+          <type>Normal</type>
+        <abilities>
+            <ability>Fuga</ability>
+            <dream>Entusiasmo</dream>
+        </abilities>
+        <baseStats>
+            <HP>55</HP>
+            <ATK>81</ATK>
+            <DEF>60</DEF>
+            <SPD>97</SPD>
+            <SATK>50</SATK>
+            <SDEF>70</SDEF>
+        </baseStats>
+        <experience>51</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>SPEAROW</species>
+	<dex>21</dex>
+          <type>Volador</type>
+        <abilities>
+            <ability>Vista lince</ability>
+            <dream>Francotirador</dream>
+        </abilities>
+        <baseStats>
+            <HP>40</HP>
+            <ATK>60</ATK>
+            <DEF>30</DEF>
+            <SPD>70</SPD>
+            <SATK>30</SATK>
+            <SDEF>30</SDEF>
+        </baseStats>
+        <experience>51</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>FEAROW</species>
+	<dex>22</dex>
+          <type>Volador</type>
+        <abilities>
+            <ability>Vista lince</ability>
+            <dream>Francotirador</dream>
+        </abilities>
+        <baseStats>
+            <HP>65</HP>
+            <ATK>90</ATK>
+            <DEF>65</DEF>
+            <SPD>100</SPD>
+            <SATK>61</SATK>
+            <SDEF>61</SDEF>
+        </baseStats>
+        <experience>51</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>EKANS</species>
+	<dex>23</dex>
+          <type>Veneno</type>
+        <abilities>
+            <ability>Mudar</ability>
+            <dream>Nerviosismo</dream>
+        </abilities>
+        <baseStats>
+            <HP>35</HP>
+            <ATK>60</ATK>
+            <DEF>44</DEF>
+            <SPD>55</SPD>
+            <SATK>44</SATK>
+            <SDEF>54</SDEF>
+        </baseStats>
+        <experience>51</experience>
+    </pokemon>
+
+
+    <pokemon>
+        <species>ARBOK</species>
+	<dex>24</dex>
+          <type>Veneno</type>
+        <abilities>
+            <ability>Mudar</ability>
+            <dream>Nerviosismo</dream>
+        </abilities>
+        <baseStats>
+            <HP>75</HP>
+            <ATK>80</ATK>
+            <DEF>74</DEF>
+            <SPD>85</SPD>
+            <SATK>64</SATK>
+            <SDEF>64</SDEF>
+        </baseStats>
+        <experience>51</experience>
+    </pokemon>
+
+
+    <pokemon>
+        <species>PIKACHU</species>
+	<dex>25</dex>
+          <type>Electrico</type>
+        <abilities>
+            <ability>Elec. estatica</ability>
+            <dream>Pararayos</dream>
+        </abilities>
+        <baseStats>
+            <HP>35</HP>
+            <ATK>60</ATK>
+            <DEF>34</DEF>
+            <SPD>65</SPD>
+            <SATK>74</SATK>
+            <SDEF>54</SDEF>
+        </baseStats>
+        <experience>51</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>RAICHU</species>
+	<dex>26</dex>
+          <type>Electrico</type>
+        <abilities>
+            <ability>Elec. estatica</ability>
+            <dream>Pararayos</dream>
+        </abilities>
+        <baseStats>
+            <HP>75</HP>
+            <ATK>65</ATK>
+            <DEF>44</DEF>
+            <SPD>75</SPD>
+            <SATK>84</SATK>
+            <SDEF>54</SDEF>
+        </baseStats>
+        <experience>51</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>SANDSHREW</species>
+	<dex>27</dex>
+          <type>Tierra</type>
+        <abilities>
+            <ability>Velo arena</ability>
+            <dream>Impetu arena</dream>
+        </abilities>
+        <baseStats>
+            <HP>25</HP>
+            <ATK>40</ATK>
+            <DEF>30</DEF>
+            <SPD>40</SPD>
+            <SATK>50</SATK>
+            <SDEF>25</SDEF>
+        </baseStats>
+        <experience>51</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>SANDSLASH</species>
+	<dex>28</dex>
+          <type>Tierra</type>
+        <abilities>
+            <ability>Velo arena</ability>
+            <dream>Impetu arena</dream>
+        </abilities>
+        <baseStats>
+            <HP>75</HP>
+            <ATK>100</ATK>
+            <DEF>110</DEF>
+            <SPD>70</SPD>
+            <SATK>50</SATK>
+            <SDEF>70</SDEF>
+        </baseStats>
+        <experience>51</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>NIDORAN HEMBRA</species>
+	<dex>29</dex>
+          <type>Veneno</type>
+        <abilities>
+            <ability>Puas toxica</ability>
+            <dream>Entusiasmo</dream>
+        </abilities>
+        <baseStats>
+            <HP>50</HP>
+            <ATK>45</ATK>
+            <DEF>40</DEF>
+            <SPD>30</SPD>
+            <SATK>30</SATK>
+            <SDEF>45</SDEF>
+        </baseStats>
+        <experience>51</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>NIDORINA</species>
+	<dex>30</dex>
+          <type>Veneno</type>
+        <abilities>
+            <ability>Puas toxica</ability>
+            <dream>Entusiasmo</dream>
+        </abilities>
+        <baseStats>
+            <HP>70</HP>
+            <ATK>65</ATK>
+            <DEF>60</DEF>
+            <SPD>50</SPD>
+            <SATK>50</SATK>
+            <SDEF>65</SDEF>
+        </baseStats>
+        <experience>51</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>NIDOQUEEN</species>
+	<dex>31</dex>
+          <type>Veneno</type>
+        <abilities>
+            <ability>Puas toxica</ability>
+            <dream>Entusiasmo</dream>
+        </abilities>
+        <baseStats>
+            <HP>90</HP>
+            <ATK>85</ATK>
+            <DEF>80</DEF>
+            <SPD>70</SPD>
+            <SATK>70</SATK>
+            <SDEF>85</SDEF>
+        </baseStats>
+        <experience>51</experience>
+    </pokemon>
+    
+    <pokemon>
+        <species>NIDORAN MACHO</species>
+	<dex>32</dex>
+          <type>Veneno</type>
+        <abilities>
+            <ability>Puas toxica</ability>
+            <dream>Entusiasmo</dream>
+        </abilities>
+        <baseStats>
+            <HP>50</HP>
+            <ATK>45</ATK>
+            <DEF>40</DEF>
+            <SPD>30</SPD>
+            <SATK>30</SATK>
+            <SDEF>45</SDEF>
+        </baseStats>
+        <experience>51</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>NIDORINO</species>
+	<dex>33</dex>
+          <type>Veneno</type>
+        <abilities>
+            <ability>Puas toxica</ability>
+            <dream>Entusiasmo</dream>
+        </abilities>
+        <baseStats>
+            <HP>70</HP>
+            <ATK>65</ATK>
+            <DEF>60</DEF>
+            <SPD>50</SPD>
+            <SATK>50</SATK>
+            <SDEF>65</SDEF>
+        </baseStats>
+        <experience>51</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>NIDOKING</species>
+	<dex>34</dex>
+          <type>Veneno</type>
+        <abilities>
+            <ability>Puas toxica</ability>
+            <dream>Entusiasmo</dream>
+        </abilities>
+        <baseStats>
+            <HP>90</HP>
+            <ATK>85</ATK>
+            <DEF>80</DEF>
+            <SPD>70</SPD>
+            <SATK>70</SATK>
+            <SDEF>85</SDEF>
+        </baseStats>
+        <experience>51</experience>
+    </pokemon>
+
+
+    <pokemon>
+        <species>CLEFAIRY</species>
+	<dex>35</dex>
+          <type>Hada</type>
+        <abilities>
+            <ability>Muro magico</ability>
+            <dream>Compiescolta</dream>
+        </abilities>
+        <baseStats>
+            <HP>40</HP>
+            <ATK>25</ATK>
+            <DEF>20</DEF>
+            <SPD>10</SPD>
+            <SATK>30</SATK>
+            <SDEF>25</SDEF>
+        </baseStats>
+        <experience>51</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>CLEFABLE</species>
+	<dex>36</dex>
+          <type>Hada</type>
+        <abilities>
+            <ability>Muro magico</ability>
+            <dream>Compiescolta</dream>
+        </abilities>
+        <baseStats>
+            <HP>70</HP>
+            <ATK>55</ATK>
+            <DEF>50</DEF>
+            <SPD>40</SPD>
+            <SATK>35</SATK>
+            <SDEF>50</SDEF>
+        </baseStats>
+        <experience>51</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>VULPIX</species>
+	<dex>37</dex>
+          <type>Fuego</type>
+        <abilities>
+            <ability>Llama interna</ability>
+            <dream>Contraataque</dream>
+        </abilities>
+        <baseStats>
+            <HP>30</HP>
+            <ATK>35</ATK>
+            <DEF>30</DEF>
+            <SPD>20</SPD>
+            <SATK>35</SATK>
+            <SDEF>50</SDEF>
+        </baseStats>
+        <experience>51</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>NINETALES</species>
+	<dex>38</dex>
+          <type>Fuego</type>
+        <abilities>
+            <ability>Llama interna</ability>
+            <dream>Contraataque</dream>
+        </abilities>
+        <baseStats>
+            <HP>60</HP>
+            <ATK>65</ATK>
+            <DEF>60</DEF>
+            <SPD>70</SPD>
+            <SATK>55</SATK>
+            <SDEF>80</SDEF>
+        </baseStats>
+        <experience>51</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>JIGGLYPUFF</species>
+	<dex>39</dex>
+          <type>Hada</type>
+        <abilities>
+            <ability>Gran encanto</ability>
+            <dream>Compiescolta</dream>
+        </abilities>
+        <baseStats>
+            <HP>40</HP>
+            <ATK>25</ATK>
+            <DEF>20</DEF>
+            <SPD>10</SPD>
+            <SATK>30</SATK>
+            <SDEF>25</SDEF>
+        </baseStats>
+        <experience>51</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>WIGGLYPUFF</species>
+	<dex>40</dex>
+          <type>Hada</type>
+        <abilities>
+            <ability>Gran encanto</ability>
+            <dream>Compiescolta</dream>
+        </abilities>
+        <baseStats>
+            <HP>70</HP>
+            <ATK>55</ATK>
+            <DEF>50</DEF>
+            <SPD>40</SPD>
+            <SATK>35</SATK>
+            <SDEF>50</SDEF>
+        </baseStats>
+        <experience>51</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>ZUBAT</species>
+	<dex>41</dex>
+          <type>Veneno</type>
+        <abilities>
+            <ability>Grito</ability>
+            <dream>Ultrasonido</dream>
+        </abilities>
+        <baseStats>
+            <HP>30</HP>
+            <ATK>25</ATK>
+            <DEF>10</DEF>
+            <SPD>10</SPD>
+            <SATK>30</SATK>
+            <SDEF>25</SDEF>
+        </baseStats>
+        <experience>51</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>GOLBAT</species>
+	<dex>42</dex>
+          <type>Veneno</type>
+        <abilities>
+            <ability>Grito</ability>
+            <dream>Ultrasonido</dream>
+        </abilities>
+        <baseStats>
+            <HP>40</HP>
+            <ATK>25</ATK>
+            <DEF>30</DEF>
+            <SPD>30</SPD>
+            <SATK>30</SATK>
+            <SDEF>25</SDEF>
+        </baseStats>
+        <experience>51</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>ODDISH</species>
+	<dex>43</dex>
+          <type>Veneno</type>
+        <abilities>
+            <ability>Toxicidad</ability>
+            <dream>Clorofila</dream>
+        </abilities>
+        <baseStats>
+            <HP>50</HP>
+            <ATK>45</ATK>
+            <DEF>40</DEF>
+            <SPD>30</SPD>
+            <SATK>30</SATK>
+            <SDEF>45</SDEF>
+        </baseStats>
+        <experience>51</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>GLOOM</species>
+	<dex>44</dex>
+          <type>Veneno</type>
+        <abilities>
+            <ability>Toxicidad</ability>
+            <dream>Clorofila</dream>
+        </abilities>
+        <baseStats>
+            <HP>70</HP>
+            <ATK>65</ATK>
+            <DEF>60</DEF>
+            <SPD>50</SPD>
+            <SATK>50</SATK>
+            <SDEF>65</SDEF>
+        </baseStats>
+        <experience>51</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>VILEPLUME</species>
+	<dex>45</dex>
+          <type>Veneno</type>
+        <abilities>
+            <ability>Toxicidad</ability>
+            <dream>Clorofila</dream>
+        </abilities>
+        <baseStats>
+            <HP>90</HP>
+            <ATK>85</ATK>
+            <DEF>80</DEF>
+            <SPD>70</SPD>
+            <SATK>70</SATK>
+            <SDEF>85</SDEF>
+        </baseStats>
+        <experience>51</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>PARAS</species>
+	<dex>46</dex>
+            <type>Bicho</type>
+        <abilities>
+            <ability>Tenaza</ability>
+            <dream>Fuga</dream>
+        </abilities>
+        <baseStats>
+            <HP>45</HP>
+            <ATK>30</ATK>
+            <DEF>35</DEF>
+            <SPD>45</SPD>
+            <SATK>20</SATK>
+            <SDEF>20</SDEF>
+        </baseStats>
+        <experience>63</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>PARASECT</species>
+	<dex>47</dex>
+            <type>Bicho</type>
+        <abilities>
+            <ability>Tenaza</ability>
+            <dream>Fuga</dream>
+        </abilities>
+        <baseStats>
+            <HP>50</HP>
+            <ATK>20</ATK>
+            <DEF>55</DEF>
+            <SPD>30</SPD>
+            <SATK>25</SATK>
+            <SDEF>25</SDEF>
+        </baseStats>
+        <experience>63</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>VENONAT</species>
+	<dex>48</dex>
+          <type>Veneno</type>
+        <abilities>
+            <ability>Ojo compuesto</ability>
+            <dream>Nerviosismo</dream>
+        </abilities>
+        <baseStats>
+            <HP>35</HP>
+            <ATK>60</ATK>
+            <DEF>44</DEF>
+            <SPD>55</SPD>
+            <SATK>44</SATK>
+            <SDEF>54</SDEF>
+        </baseStats>
+        <experience>51</experience>
+    </pokemon>
+
+
+    <pokemon>
+        <species>VENOMOTH</species>
+	<dex>49</dex>
+          <type>Veneno</type>
+        <abilities>
+            <ability>Ojo compuesto</ability>
+            <dream>Fuga</dream>
+        </abilities>
+        <baseStats>
+            <HP>75</HP>
+            <ATK>80</ATK>
+            <DEF>74</DEF>
+            <SPD>85</SPD>
+            <SATK>64</SATK>
+            <SDEF>64</SDEF>
+        </baseStats>
+        <experience>51</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>DIGGLET</species>
+	<dex>50</dex>
+          <type>Tierra</type>
+        <abilities>
+            <ability>Cuerpo pesado</ability>
+            <dream>Bajo tierra</dream>
+        </abilities>
+        <baseStats>
+            <HP>90</HP>
+            <ATK>85</ATK>
+            <DEF>80</DEF>
+            <SPD>70</SPD>
+            <SATK>70</SATK>
+            <SDEF>85</SDEF>
+        </baseStats>
+        <experience>51</experience>
+    </pokemon>
+
+ <pokemon>
+        <species>DUGTRIO</species>
+	<dex>51</dex>
+          <type>Tierra</type>
+        <abilities>
+            <ability>Cuerpo pesado</ability>
+            <dream>Bajo tierra</dream>
+        </abilities>
+        <baseStats>
+            <HP>100</HP>
+            <ATK>95</ATK>
+            <DEF>40</DEF>
+            <SPD>80</SPD>
+            <SATK>100</SATK>
+            <SDEF>90</SDEF>
+        </baseStats>
+        <experience>51</experience>
+    </pokemon>
+
+   <pokemon>
+        <species>MEOWTH</species>
+	<dex>52</dex>
+            <type>Normal</type>
+        <abilities>
+            <ability>Vista lince</ability>
+            <dream>Nerviosismo</dream>
+        </abilities>
+        <baseStats>
+            <HP>40</HP>
+            <ATK>45</ATK>
+            <DEF>40</DEF>
+            <SPD>56</SPD>
+            <SATK>35</SATK>
+            <SDEF>35</SDEF>
+        </baseStats>
+        <experience>50</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>PERSIAN</species>
+	<dex>53</dex>
+            <type>Normal</type>
+        <abilities>
+            <ability>Vista lince</ability>
+            <dream>Nerviosismo</dream>
+        </abilities>
+        <baseStats>
+            <HP>63</HP>
+            <ATK>60</ATK>
+            <DEF>55</DEF>
+            <SPD>71</SPD>
+            <SATK>50</SATK>
+            <SDEF>50</SDEF>
+        </baseStats>
+        <experience>50</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>PSYDUCK</species>
+	<dex>54</dex>
+            <type>Agua</type>
+        <abilities>
+            <ability>Torrente</ability>
+            <dream>Nado rapido</dream>
+        </abilities>
+        <baseStats>
+            <HP>44</HP>
+            <ATK>48</ATK>
+            <DEF>65</DEF>
+            <SPD>43</SPD>
+            <SATK>50</SATK>
+            <SDEF>64</SDEF>
+        </baseStats>
+        <experience>63</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>GOLDUCK</species>
+	<dex>55</dex>
+            <type>Agua</type>
+        <abilities>
+            <ability>Torrente</ability>
+            <dream>Nado rapido</dream>
+        </abilities>
+        <baseStats>
+            <HP>69</HP>
+            <ATK>63</ATK>
+            <DEF>80</DEF>
+            <SPD>48</SPD>
+            <SATK>65</SATK>
+            <SDEF>83</SDEF>
+        </baseStats>
+        <experience>63</experience>
+    </pokemon>
+
+   <pokemon>
+        <species>MANKEY</species>
+	<dex>56</dex>
+            <type>Lucha</type>
+        <abilities>
+            <ability>Espiritu vital</ability>
+            <dream>Destreza</dream>
+        </abilities>
+        <baseStats>
+            <HP>40</HP>
+            <ATK>45</ATK>
+            <DEF>40</DEF>
+            <SPD>56</SPD>
+            <SATK>35</SATK>
+            <SDEF>35</SDEF>
+        </baseStats>
+        <experience>50</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>PRIMEAPE</species>
+	<dex>57</dex>
+            <type>Lucha</type>
+        <abilities>
+            <ability>Espiritu vital</ability>
+            <dream>Destreza</dream>
+        </abilities>
+        <baseStats>
+            <HP>83</HP>
+            <ATK>100</ATK>
+            <DEF>75</DEF>
+            <SPD>73</SPD>
+            <SATK>60</SATK>
+            <SDEF>55</SDEF>
+        </baseStats>
+        <experience>50</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>GROWLITHE</species>
+	<dex>58</dex>
+            <type>Fuego</type>
+        <abilities>
+            <ability>Mar llamas</ability>
+            <dream>Absorbe fuego</dream>
+        </abilities>
+        <baseStats>
+            <HP>58</HP>
+            <ATK>54</ATK>
+            <DEF>58</DEF>
+            <SPD>70</SPD>
+            <SATK>80</SATK>
+            <SDEF>65</SDEF>
+        </baseStats>
+        <experience>72</experience>
+    </pokemon>
+	
+	
+    <pokemon>
+        <species>ARCANINE</species>
+	<dex>59</dex>
+            <type>Fuego</type>
+        <abilities>
+            <ability>Mar llamas</ability>
+            <dream>Absorbe fuego</dream>
+        </abilities>
+        <baseStats>
+            <HP>88</HP>
+            <ATK>84</ATK>
+            <DEF>68</DEF>
+            <SPD>100</SPD>
+            <SATK>109</SATK>
+            <SDEF>85</SDEF>
+        </baseStats>
+        <experience>240</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>POLIWAG</species>
+	<dex>60</dex>
+            <type>Agua</type>
+        <abilities>
+            <ability>Humedad</ability>
+            <dream>Nado rapido</dream>
+        </abilities>
+        <baseStats>
+            <HP>44</HP>
+            <ATK>48</ATK>
+            <DEF>65</DEF>
+            <SPD>43</SPD>
+            <SATK>50</SATK>
+            <SDEF>64</SDEF>
+        </baseStats>
+        <experience>63</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>POLIWHIRL</species>
+	<dex>61</dex>
+            <type>Agua</type>
+        <abilities>
+            <ability>Humedad</ability>
+            <dream>Nado rapido</dream>
+        </abilities>
+        <baseStats>
+            <HP>59</HP>
+            <ATK>63</ATK>
+            <DEF>80</DEF>
+            <SPD>58</SPD>
+            <SATK>65</SATK>
+            <SDEF>80</SDEF>
+        </baseStats>
+        <experience>63</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>POLIWRATH</species>
+	<dex>62</dex>
+            <type>Agua</type>
+        <abilities>
+            <ability>Humedad</ability>
+            <dream>Nado rapido</dream>
+        </abilities>
+        <baseStats>
+            <HP>79</HP>
+            <ATK>83</ATK>
+            <DEF>100</DEF>
+            <SPD>78</SPD>
+            <SATK>85</SATK>
+            <SDEF>105</SDEF>
+        </baseStats>
+        <experience>63</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>ABRA</species>
+	<dex>63</dex>
+            <type>Psiquico</type>
+        <abilities>
+            <ability>Sincronia</ability>
+            <dream>Muro magico</dream>
+        </abilities>
+        <baseStats>
+            <HP>44</HP>
+            <ATK>48</ATK>
+            <DEF>65</DEF>
+            <SPD>43</SPD>
+            <SATK>50</SATK>
+            <SDEF>64</SDEF>
+        </baseStats>
+        <experience>63</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>KADABRA</species>
+	<dex>64</dex>
+            <type>Psiquico</type>
+        <abilities>
+            <ability>Sincronia</ability>
+            <dream>Muro magico</dream>
+        </abilities>
+        <baseStats>
+            <HP>59</HP>
+            <ATK>63</ATK>
+            <DEF>80</DEF>
+            <SPD>58</SPD>
+            <SATK>65</SATK>
+            <SDEF>80</SDEF>
+        </baseStats>
+        <experience>63</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>ALAKAZAM</species>
+	<dex>65</dex>
+            <type>Psiquico</type>
+        <abilities>
+            <ability>Sincronia</ability>
+            <dream>Muro magico</dream>
+        </abilities>
+        <baseStats>
+            <HP>79</HP>
+            <ATK>83</ATK>
+            <DEF>100</DEF>
+            <SPD>78</SPD>
+            <SATK>85</SATK>
+            <SDEF>105</SDEF>
+        </baseStats>
+        <experience>63</experience>
+    </pokemon>
+
+   <pokemon>
+        <species>MACHOP</species>
+	<dex>66</dex>
+            <type>Lucha</type>
+        <abilities>
+            <ability>Agallas</ability>
+            <dream>Espiritu vital</dream>
+        </abilities>
+        <baseStats>
+            <HP>40</HP>
+            <ATK>45</ATK>
+            <DEF>40</DEF>
+            <SPD>56</SPD>
+            <SATK>35</SATK>
+            <SDEF>35</SDEF>
+        </baseStats>
+        <experience>50</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>MACHOKE</species>
+	<dex>67</dex>
+            <type>Lucha</type>
+        <abilities>
+            <ability>Agallas</ability>
+            <dream>Espiritu vital</dream>
+        </abilities>
+        <baseStats>
+            <HP>83</HP>
+            <ATK>100</ATK>
+            <DEF>75</DEF>
+            <SPD>73</SPD>
+            <SATK>60</SATK>
+            <SDEF>55</SDEF>
+        </baseStats>
+        <experience>50</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>MACHAMP</species>
+	<dex>68</dex>
+            <type>Lucha</type>
+        <abilities>
+            <ability>Agallas</ability>
+            <dream>Espiritu vital</dream>
+        </abilities>
+        <baseStats>
+            <HP>103</HP>
+            <ATK>130</ATK>
+            <DEF>95</DEF>
+            <SPD>93</SPD>
+            <SATK>70</SATK>
+            <SDEF>75</SDEF>
+        </baseStats>
+        <experience>50</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>BELLSPROUT</species>
+	<dex>69</dex>
+        <type>Planta</type>
+        <abilities>
+            <ability>Gula</ability>
+            <dream>Clorofila</dream>
+        </abilities>
+        <baseStats>
+            <HP>45</HP>
+            <ATK>49</ATK>
+            <DEF>49</DEF>
+            <SPD>45</SPD>
+            <SATK>45</SATK>
+            <SDEF>65</SDEF>
+        </baseStats>
+        <experience>64</experience>
+    </pokemon>
+	
+	<pokemon>
+        <species>WEEPINBELL</species>
+	<dex>70</dex>
+        <type>Planta</type>
+        <abilities>
+            <ability>Gula</ability>
+            <dream>Clorofila</dream>
+        </abilities>
+        <baseStats>
+            <HP>60</HP>
+            <ATK>62</ATK>
+            <DEF>63</DEF>
+            <SPD>60</SPD>
+            <SATK>80</SATK>
+            <SDEF>80</SDEF>
+        </baseStats>
+        <experience>64</experience>
+    </pokemon>	
+	
+    <pokemon>
+        <species>VICTREEBEL</species>
+	<dex>71</dex>
+        <type>Planta</type>
+        <abilities>
+            <ability>Gula</ability>
+            <dream>Clorofila</dream>
+        </abilities>
+        <baseStats>
+            <HP>80</HP>
+            <ATK>82</ATK>
+            <DEF>83</DEF>
+            <SPD>80</SPD>
+            <SATK>100</SATK>
+            <SDEF>100</SDEF>
+        </baseStats>
+        <experience>64</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>TENTACOOL</species>
+	<dex>72</dex>
+            <type>Agua</type>
+        <abilities>
+            <ability>Cuerpo puro</ability>
+            <dream>Cura lluvia</dream>
+        </abilities>
+        <baseStats>
+            <HP>44</HP>
+            <ATK>48</ATK>
+            <DEF>65</DEF>
+            <SPD>43</SPD>
+            <SATK>50</SATK>
+            <SDEF>64</SDEF>
+        </baseStats>
+        <experience>63</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>TENTACRUEL</species>
+	<dex>73</dex>
+            <type>Agua</type>
+        <abilities>
+            <ability>Cuerpo puro</ability>
+            <dream>Cura lluvia</dream>
+        </abilities>
+        <baseStats>
+            <HP>90</HP>
+            <ATK>93</ATK>
+            <DEF>100</DEF>
+            <SPD>68</SPD>
+            <SATK>55</SATK>
+            <SDEF>50</SDEF>
+        </baseStats>
+        <experience>63</experience>
+    </pokemon>
+
+   <pokemon>
+        <species>GEODUDE</species>
+	<dex>74</dex>
+            <type>Roca</type>
+        <abilities>
+            <ability>Cabeza roca</ability>
+            <dream>Velo arena</dream>
+        </abilities>
+        <baseStats>
+            <HP>40</HP>
+            <ATK>45</ATK>
+            <DEF>40</DEF>
+            <SPD>56</SPD>
+            <SATK>35</SATK>
+            <SDEF>35</SDEF>
+        </baseStats>
+        <experience>50</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>GRAVELER</species>
+	<dex>75</dex>
+            <type>Roca</type>
+        <abilities>
+            <ability>Cabeza roca</ability>
+            <dream>Velo arena</dream>
+        </abilities>
+        <baseStats>
+            <HP>83</HP>
+            <ATK>100</ATK>
+            <DEF>75</DEF>
+            <SPD>73</SPD>
+            <SATK>60</SATK>
+            <SDEF>55</SDEF>
+        </baseStats>
+        <experience>50</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>GOLEM</species>
+	<dex>76</dex>
+            <type>Roca</type>
+        <abilities>
+            <ability>Cabeza roca</ability>
+            <dream>Velo arena</dream>
+        </abilities>
+        <baseStats>
+            <HP>103</HP>
+            <ATK>130</ATK>
+            <DEF>95</DEF>
+            <SPD>93</SPD>
+            <SATK>70</SATK>
+            <SDEF>75</SDEF>
+        </baseStats>
+        <experience>50</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>PONYTA</species>
+	<dex>77</dex>
+            <type>Fuego</type>
+        <abilities>
+            <ability>Fuga</ability>
+            <dream>Cuerpo llama</dream>
+        </abilities>
+        <baseStats>
+            <HP>39</HP>
+            <ATK>52</ATK>
+            <DEF>43</DEF>
+            <SPD>65</SPD>
+            <SATK>60</SATK>
+            <SDEF>50</SDEF>
+        </baseStats>
+        <experience>62</experience>
+    </pokemon>
+	
+    <pokemon>
+        <species>RAPIDASH</species>
+	<dex>78</dex>
+            <type>Fuego</type>
+        <abilities>
+            <ability>Fuga</ability>
+            <dream>Cuerpo llama</dream>
+        </abilities>
+        <baseStats>
+            <HP>58</HP>
+            <ATK>94</ATK>
+            <DEF>68</DEF>
+            <SPD>100</SPD>
+            <SATK>60</SATK>
+            <SDEF>75</SDEF>
+        </baseStats>
+        <experience>72</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>SLOWPOKE</species>
+	<dex>79</dex>
+            <type>Agua</type>
+        <abilities>
+            <ability>Despiste</ability>
+            <dream>Regeneracion</dream>
+        </abilities>
+        <baseStats>
+            <HP>44</HP>
+            <ATK>48</ATK>
+            <DEF>65</DEF>
+            <SPD>43</SPD>
+            <SATK>50</SATK>
+            <SDEF>64</SDEF>
+        </baseStats>
+        <experience>63</experience>
+    </pokemon>
+
+    <pokemon>
+        <species>SLOWBRO</species>
+	<dex>80</dex>
+            <type>Agua</type>
+        <abilities>
+            <ability>Despiste</ability>
+            <dream>Regeneracion</dream>
+        </abilities>
+        <baseStats>
+            <HP>90</HP>
+            <ATK>93</ATK>
+            <DEF>110</DEF>
+            <SPD>58</SPD>
+            <SATK>65</SATK>
+            <SDEF>70</SDEF>
+        </baseStats>
+        <experience>63</experience>
+    </pokemon>
+    <pokemon>
+        
+        <species>MAGNEMITE</species>
+        <type>Electrico</type>
+        <abilities>
+            <ability>Iman</ability>
+            <dream>Calculo final</dream>
+        </abilities>
+        <baseStats>
+            <HP>25</HP>
+            <ATK>35</ATK>
+            <DEF>70</DEF>
+            <SPD>45</SPD>
+            <SATK>95</SATK>
+            <SDEF>55</SDEF>
+        </baseStats>
+        <experience>153</experience>
+        <dex>81</dex>
+    </pokemon>
+    
+    <pokemon>
+        
+        <species>MAGNETON</species>
+        <type>Electrico</type>
+        <abilities>
+            <ability>Iman</ability>
+            <dream>Calculo final</dream>
+        </abilities>
+        <baseStats>
+            <HP>50</HP>
+            <ATK>60</ATK>
+            <DEF>95</DEF>
+            <SPD>70</SPD>
+            <SATK>120</SATK>
+            <SDEF>70</SDEF>
+        </baseStats>
+        <experience>289</experience>
+        <dex>82</dex>
+    </pokemon>
+    
+    <pokemon>
+        
+        <species>FARFETCH´D</species>
+        <type>Normal</type>
+        <abilities>
+            <ability>Vista Lince</ability>
+            <dream>Competitivo</dream>
+        </abilities>
+        <baseStats>
+            <HP>52</HP>
+            <ATK>90</ATK>
+            <DEF>55</DEF>
+            <SPD>60</SPD>
+            <SATK>58</SATK>
+            <SDEF>62</SDEF>
+        </baseStats>
+        <experience>89</experience>
+        <dex>83</dex>
+    </pokemon>
+    
+    <pokemon>
+        
+        <species>DODUO</species>
+        <type>Normal</type>
+        <abilities>
+            <ability>Fuga</ability>
+            <dream>Tumbos</dream>
+        </abilities>
+        <baseStats>
+            <HP>35</HP>
+            <ATK>85</ATK>
+            <DEF>45</DEF>
+            <SPD>75</SPD>
+            <SATK>35</SATK>
+            <SDEF>35</SDEF>
+        </baseStats>
+        <experience>73</experience>
+        <dex>84</dex>
+    </pokemon>
+    
+    <pokemon>
+        
+        <species>DODRIO</species>
+        <type>Normal</type>
+        <abilities>
+            <ability>Fuga</ability>
+            <dream>Tumbos</dream>
+        </abilities>
+        <baseStats>
+            <HP>60</HP>
+            <ATK>110</ATK>
+            <DEF>70</DEF>
+            <SPD>110</SPD>
+            <SATK>60</SATK>
+            <SDEF>60</SDEF>
+        </baseStats>
+        <experience>196</experience>
+        <dex>85</dex>
+    </pokemon>
+    
+    <pokemon>
+        
+        <species>SEEL</species>
+        <type>Agua</type>
+        <abilities>
+            <ability>Sebo</ability>
+            <dream>Gelido</dream>
+        </abilities>
+        <baseStats>
+            <HP>65</HP>
+            <ATK>45</ATK>
+            <DEF>55</DEF>
+            <SPD>45</SPD>
+            <SATK>70</SATK>
+            <SDEF>45</SDEF>
+        </baseStats>
+        <experience>78</experience>
+        <dex>86</dex>
+    </pokemon>
+    
+    <pokemon>
+        
+        <species>DEWGONG</species>
+        <type>Agua</type>
+        <abilities>
+            <ability>Sebo</ability>
+            <dream>Gelido</dream>
+        </abilities>
+        <baseStats>
+            <HP>90</HP>
+            <ATK>70</ATK>
+            <DEF>80</DEF>
+            <SPD>70</SPD>
+            <SATK>70</SATK>
+            <SDEF>95</SDEF>
+        </baseStats>
+        <experience>341</experience>
+        <dex>87</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>GRIMER</species>
+        <type>Veneno</type>
+        <abilities>
+            <ability>Hedor</ability>
+            <dream>Toque toxico</dream>
+        </abilities>
+        <baseStats>
+            <HP>80</HP>
+            <ATK>80</ATK>
+            <DEF>50</DEF>
+            <SPD>25</SPD>
+            <SATK>40</SATK>
+            <SDEF>50</SDEF>
+        </baseStats>
+        <experience>241</experience>
+        <dex>88</dex>
+    </pokemon>
+    
+    <pokemon>
+        
+        <species>MUK</species>
+        <type>Veneno</type>
+        <abilities>
+            <ability>Hedor</ability>
+            <dream>Toque toxico</dream>
+        </abilities>
+        <baseStats>
+            <HP>105</HP>
+            <ATK>105</ATK>
+            <DEF>75</DEF>
+            <SPD>50</SPD>
+            <SATK>65</SATK>
+            <SDEF>100</SDEF>
+        </baseStats>
+        <experience>541</experience>
+        <dex>89</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>SHELLDER</species>
+        <type>Agua</type>
+        <abilities>
+            <ability>Caparazon</ability>
+            <dream>Funda</dream>
+        </abilities>
+        <baseStats>
+            <HP>30</HP>
+            <ATK>65</ATK>
+            <DEF>100</DEF>
+            <SPD>40</SPD>
+            <SATK>45</SATK>
+            <SDEF>25</SDEF>
+        </baseStats>
+        <experience>253</experience>
+        <dex>90</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>CLOYSTER</species>
+        <type>Agua</type>
+        <abilities>
+            <ability>Caparazon</ability>
+            <dream>Funda</dream>
+        </abilities>
+        <baseStats>
+            <HP>50</HP>
+            <ATK>95</ATK>
+            <DEF>180</DEF>
+            <SPD>70</SPD>
+            <SATK>85</SATK>
+            <SDEF>45</SDEF>
+        </baseStats>
+        <experience>684</experience>
+        <dex>91</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>GASTLY</species>
+        <type>Fantasma</type>
+        <abilities>
+            <ability>Levitacion</ability>
+            <dream>Levitacion</dream>
+        </abilities>
+        <baseStats>
+            <HP>30</HP>
+            <ATK>35</ATK>
+            <DEF>35</DEF>
+            <SPD>80</SPD>
+            <SATK>100</SATK>
+            <SDEF>35</SDEF>
+        </baseStats>
+        <experience>142</experience>
+        <dex>92</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>HAUNTER</species>
+        <type>Fantasma</type>
+        <abilities>
+            <ability>Levitacion</ability>
+            <dream>Levitacion</dream>
+        </abilities>
+        <baseStats>
+            <HP>45</HP>
+            <ATK>50</ATK>
+            <DEF>45</DEF>
+            <SPD>95</SPD>
+            <SATK>115</SATK>
+            <SDEF>55</SDEF>
+        </baseStats>
+        <experience>268</experience>
+        <dex>93</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>GENGAR</species>
+        <type>Fantasma</type>
+        <abilities>
+            <ability>Cuerpo maldito</ability>
+            <dream>Cuerpo maldito</dream>
+        </abilities>
+        <baseStats>
+            <HP>60</HP>
+            <ATK>65</ATK>
+            <DEF>60</DEF>
+            <SPD>110</SPD>
+            <SATK>130</SATK>
+            <SDEF>75</SDEF>
+        </baseStats>
+        <experience>534</experience>
+        <dex>94</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>ONIX</species>
+        <type>Roca</type>
+        <abilities>
+            <ability>Cabeza roca</ability>
+            <dream>Armadura fragil</dream>
+        </abilities>
+        <baseStats>
+            <HP>35</HP>
+            <ATK>45</ATK>
+            <DEF>160</DEF>
+            <SPD>70</SPD>
+            <SATK>30</SATK>
+            <SDEF>45</SDEF>
+        </baseStats>
+        <experience>854</experience>
+        <dex>95</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>DROWZEE</species>
+        <type>Psiquico</type>
+        <abilities>
+            <ability>Insomnio</ability>
+            <dream>Foco interno</dream>
+        </abilities>
+        <baseStats>
+        <HP>60</HP>
+            <ATK>48</ATK>
+            <DEF>45</DEF>
+            <SPD>42</SPD>
+            <SATK>43</SATK>
+            <SDEF>90</SDEF>
+            
+        </baseStats>
+        <experience>264</experience>
+        <dex>96</dex>
+    </pokemon>
+    
+    <pokemon>
+            <species>HYPNO</species>
+        <type>Psiquico</type>
+        <abilities>
+            <ability>Insomnio</ability>
+            <dream>Foco interno</dream>
+        </abilities>
+        <baseStats>
+            <HP>85</HP>
+            <ATK>73</ATK>
+            <DEF>70</DEF>
+            <SPD>67</SPD>
+            <SATK>73</SATK>
+            <SDEF>115</SDEF>   
+        </baseStats>
+        <experience>453</experience>
+        <dex>97</dex>
+    </pokemon>
+    
+    <pokemon>
+
+        <species>KRABBY</species>
+        <type>Agua</type>
+        <abilities>
+            <ability>Corte fuerte</ability>
+            <dream>Potencia bruta</dream>
+        </abilities>
+        <baseStats>
+            <HP>30</HP>
+            <ATK>105</ATK>
+            <DEF>90</DEF>
+            <SPD>50</SPD>
+            <SATK>25</SATK>
+            <SDEF>25</SDEF>
+        </baseStats>
+        <experience>321</experience>
+        <dex>98</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>KINGLER</species>
+        <type>Agua</type>
+        <abilities>
+            <ability>Corte fuerte</ability>
+            <dream>Potencia bruta</dream>
+        </abilities>
+        <baseStats>
+            <HP>55</HP>
+            <ATK>130</ATK>
+            <DEF>115</DEF>
+            <SPD>75</SPD>
+            <SATK>50</SATK>
+            <SDEF>50</SDEF>
+        </baseStats>
+        <experience>458</experience>
+        <dex>99</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>VOLTORB</species>
+        <type>Electrico</type>
+        <abilities>
+            <ability>Isonorizar</ability>
+            <dream>Resquicio</dream>
+        </abilities>
+        <baseStats>
+            <HP>40</HP>
+            <ATK>30</ATK>
+            <DEF>50</DEF>
+            <SPD>100</SPD>
+            <SATK>55</SATK>
+            <SDEF>55</SDEF>
+        </baseStats>
+        <experience>276</experience>
+        <dex>100</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>ELECTRODE</species>
+        <type>Electrico</type>
+        <abilities>
+            <ability>Isonorizar</ability>
+            <dream>Resquicio</dream>
+        </abilities>
+        <baseStats>
+            <HP>60</HP>
+            <ATK>50</ATK>
+            <DEF>70</DEF>
+            <SPD>150</SPD>
+            <SATK>80</SATK>
+            <SDEF>80</SDEF>
+        </baseStats>
+        <experience>326</experience>
+        <dex>101</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>EXEGGCUTE</species>
+        <type>Planta</type>
+        <abilities>
+            <ability>Clorofila</ability>
+            <dream>Cosecha</dream>
+        </abilities>
+        <baseStats>
+            <HP>60</HP>
+            <ATK>40</ATK>
+            <DEF>80</DEF>
+            <SPD>40</SPD>
+            <SATK>45</SATK>
+            <SDEF>45</SDEF>
+        </baseStats>
+        <experience>420</experience>
+        <dex>102</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>EXEGGUTOR</species>
+        <type>Planta</type>
+        <abilities>
+            <ability>Clorofila</ability>
+            <dream>Cosecha</dream>
+        </abilities>
+        <baseStats>
+            <HP>95</HP>
+            <ATK>95</ATK>
+            <DEF>85</DEF>
+            <SPD>55</SPD>
+            <SATK>125</SATK>
+            <SDEF>75</SDEF>
+        </baseStats>
+        <experience>584</experience>
+        <dex>103</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>CUBONE</species>
+        <type>Tierra</type>
+        <abilities>
+            <ability>Cabeza roca</ability>
+            <dream>Armadura bat.</dream>
+        </abilities>
+        <baseStats>
+            <HP>50</HP>
+            <ATK>50</ATK>
+            <DEF>95</DEF>
+            <SPD>35</SPD>
+            <SATK>40</SATK>
+            <SDEF>50</SDEF>
+        </baseStats>
+        <experience>106</experience>
+        <dex>104</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>MAROWAK</species>
+        <type>Tierra</type>
+        <abilities>
+            <ability>Cabeza roca</ability>
+            <dream>Armadura bat.</dream>
+        </abilities>
+        <baseStats>
+            <HP>60</HP>
+            <ATK>80</ATK>
+            <DEF>110</DEF>
+            <SPD>45</SPD>
+            <SATK>50</SATK>
+            <SDEF>80</SDEF>
+        </baseStats>
+        <experience>395</experience>
+        <dex>105</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>HITMONLEE</species>
+        <type>Lucha</type>
+        <abilities>
+            <ability>Felixibilidad</ability>
+            <dream>Libiano</dream>
+        </abilities>
+        <baseStats>
+            <HP>50</HP>
+            <ATK>120</ATK>
+            <DEF>53</DEF>
+            <SPD>87</SPD>
+            <SATK>35</SATK>
+            <SDEF>110</SDEF>
+        </baseStats>
+        <experience>524</experience>
+        <dex>106</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>HITMONCHAN</species>
+        <type>Lucha</type>
+        <abilities>
+            <ability>Felixibilidad</ability>
+            <dream>Libiano</dream>
+        </abilities>
+        <baseStats>
+            <HP>50</HP>
+            <ATK>105</ATK>
+            <DEF>79</DEF>
+            <SPD>76</SPD>
+            <SATK>35</SATK>
+            <SDEF>110</SDEF>
+        </baseStats>
+        <experience>496</experience>
+        <dex>107</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>LICKTUNG</species>
+        <type>Normal</type>
+        <abilities>
+            <ability>Despiste</ability>
+            <dream>Aclmatizacion</dream>
+        </abilities>
+        <baseStats>
+            <HP>90</HP>
+            <ATK>55</ATK>
+            <DEF>75</DEF>
+            <SPD>30</SPD>
+            <SATK>60</SATK>
+            <SDEF>75</SDEF>
+        </baseStats>
+        <experience>864</experience>
+        <dex>108</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>KOFFING</species>
+        <type>Veneno</type>
+        <abilities>
+            <ability>Levitacion</ability>
+            <dream>Levitacion</dream>
+        </abilities>
+        <baseStats>
+            <HP>40</HP>
+            <ATK>65</ATK>
+            <DEF>95</DEF>
+            <SPD>24</SPD>
+            <SATK>60</SATK>
+            <SDEF>45</SDEF>
+        </baseStats>
+        <experience></experience>
+        <dex>109</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>WEEZING</species>
+        <type>Veneno</type>
+        <abilities>
+            <ability>Levitacion</ability>
+            <dream>Levitacion</dream>
+        </abilities>
+        <baseStats>
+            <HP>65</HP>
+            <ATK>90</ATK>
+            <DEF>120</DEF>
+            <SPD>85</SPD>
+            <SATK>85</SATK>
+            <SDEF>70</SDEF>
+        </baseStats>
+        <experience>697</experience>
+        <dex>110</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>RYHORN</species>
+        <type>Tierra</type>
+        <abilities>
+            <ability>Pararrayos</ability>
+            <dream>Audaz</dream>
+        </abilities>
+        <baseStats>
+            <HP>80</HP>
+            <ATK>85</ATK>
+            <DEF>95</DEF>
+            <SPD>30</SPD>
+            <SATK>30</SATK>
+            <SDEF>30</SDEF>
+        </baseStats>
+        <experience>587</experience>
+        <dex>111</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>RHYDON</species>
+        <type>Tierra</type>
+        <abilities>
+            <ability>Pararrayos</ability>
+            <dream>Audaz</dream>
+        </abilities>
+        <baseStats>
+            <HP>105</HP>
+            <ATK>130</ATK>
+            <DEF>120</DEF>
+            <SPD>45</SPD>
+            <SATK>45</SATK>
+            <SDEF>45</SDEF>
+        </baseStats>
+        <experience>2651</experience>
+        <dex>112</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>CHANSEY</species>
+        <type>Normal</type>
+        <abilities>
+            <ability>Cura natural</ability>
+            <dream>Alma cura</dream>
+        </abilities>
+        <baseStats>
+            <HP>250</HP>
+            <ATK>5</ATK>
+            <DEF>5</DEF>
+            <SPD>50</SPD>
+            <SATK>35</SATK>
+            <SDEF>105</SDEF>
+        </baseStats>
+        <experience>2430</experience>
+        <dex>113</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>TANGELA</species>
+        <type>Planta</type>
+        <abilities>
+            <ability>Clorofila</ability>
+            <dream>Regeneracion</dream>
+        </abilities>
+        <baseStats>
+            <HP>65</HP>
+            <ATK>55</ATK>
+            <DEF>115</DEF>
+            <SPD>60</SPD>
+            <SATK>100</SATK>
+            <SDEF>40</SDEF>
+        </baseStats>
+        <experience>946</experience>
+        <dex>114</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>KANGASKHAN</species>
+        <type>Normal</type>
+        <abilities>
+            <ability>Madrugar</ability>
+            <dream>Foco interno</dream>
+        </abilities>
+        <baseStats>
+            <HP>105</HP>
+            <ATK>95</ATK>
+            <DEF>80</DEF>
+            <SPD>90</SPD>
+            <SATK>80</SATK>
+            <SDEF>40</SDEF>
+        </baseStats>
+        <experience>1640</experience>
+        <dex>115</dex>
+    </pokemon>
+
+    <pokemon>
+    
+        <species>HORSEA</species>
+        <type>Agua</type>
+        <abilities>
+            <ability>Nado rapido</ability>
+            <dream>Humedad</dream>
+        </abilities>
+        <baseStats>
+            <HP>30</HP>
+            <ATK>40</ATK>
+            <DEF>70</DEF>
+            <SPD>60</SPD>
+            <SATK>70</SATK>
+            <SDEF>25</SDEF>
+        </baseStats>
+        <experience></experience>
+        <dex>116</dex>
+    </pokemon>
+    
+    <pokemon>
+        
+        <species>SEADRA</species>
+        <type>Agua</type>
+        <abilities>
+            <ability>Nado rapido</ability>
+            <dream>Humedad</dream>
+        </abilities>
+        <baseStats>
+            <HP>55</HP>
+            <ATK>65</ATK>
+            <DEF>95</DEF>
+            <SPD>85</SPD>
+            <SATK>95</SATK>
+            <SDEF>45</SDEF>
+        </baseStats>
+        <experience></experience>
+        <dex>117</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>GOLDEEN</species>
+        <type>Agua</type>
+        <abilities>
+            <ability>Nado rapido</ability>
+            <dream>Velo agua</dream>
+        </abilities>
+        <baseStats>
+            <HP>45</HP>
+            <ATK>67</ATK>
+            <DEF>60</DEF>
+            <SPD>63</SPD>
+            <SATK>35</SATK>
+            <SDEF>50</SDEF>
+        </baseStats>
+        <experience></experience>
+        <dex>118</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>SEAKING</species>
+        <type>Agua</type>
+        <abilities>
+            <ability>Nado rapido</ability>
+            <dream>Velo agua</dream>
+        </abilities>
+        <baseStats>
+            <HP>80</HP>
+            <ATK>92</ATK>
+            <DEF>65</DEF>
+            <SPD>68</SPD>
+            <SATK>65</SATK>
+            <SDEF>80</SDEF>
+        </baseStats>
+        <experience>740</experience>
+        <dex>119</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>STARYU</species>
+        <type>Agua</type>
+        <abilities>
+            <ability>Cura natural</ability>
+            <dream>Calculo final</dream>
+        </abilities>
+        <baseStats>
+            <HP>30</HP>
+            <ATK>45</ATK>
+            <DEF>55</DEF>
+            <SPD>85</SPD>
+            <SATK>70</SATK>
+            <SDEF>55</SDEF>
+        </baseStats>
+        <experience>536</experience>
+        <dex>120</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>STARMIE</species>
+        <type>Agua</type>
+        <abilities>
+            <ability>Cura natural</ability>
+            <dream>Calculo final</dream>
+        </abilities>
+        <baseStats>
+            <HP>60</HP>
+            <ATK>75</ATK>
+            <DEF>85</DEF>
+            <SPD>115</SPD>
+            <SATK>100</SATK>
+            <SDEF>85</SDEF>
+        </baseStats>
+        <experience>941</experience>
+        <dex>121</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>MR. MIME</species>
+        <type>Psiquico</type>
+        <abilities>
+            <ability>Isonorizar</ability>
+            <dream>Experto</dream>
+        </abilities>
+        <baseStats>
+            <HP>40</HP>
+            <ATK>45</ATK>
+            <DEF>65</DEF>
+            <SPD>90</SPD>
+            <SATK>100</SATK>
+            <SDEF>120</SDEF>
+        </baseStats>
+        <experience>862</experience>
+        <dex>122</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>SCYTHER</species>
+        <type>Bicho</type>
+        <abilities>
+            <ability>Enjambre</ability>
+            <dream>Impasible</dream>
+        </abilities>
+        <baseStats>
+            <HP>70</HP>
+            <ATK>110</ATK>
+            <DEF>80</DEF>
+            <SPD>105</SPD>
+            <SATK>55</SATK>
+            <SDEF>80</SDEF>
+        </baseStats>
+        <experience>421</experience>
+        <dex>123</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>JYNX</species>
+        <type>Hielo</type>
+        <abilities>
+            <ability>Despiste</ability>
+            <dream>Piel seca</dream>
+        </abilities>
+        <baseStats>
+            <HP>65</HP>
+            <ATK>50</ATK>
+            <DEF>35</DEF>
+            <SPD>95</SPD>
+            <SATK>115</SATK>
+            <SDEF>95</SDEF>
+        </baseStats>
+        <experience>548</experience>
+        <dex>124</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>ELECTABUZZ</species>
+        <type>Electrico</type>
+        <abilities>
+            <ability>Electricidad estatica</ability>
+            <dream>Espiritu vital</dream>
+        </abilities>
+        <baseStats>
+            <HP>65</HP>
+            <ATK>83</ATK>
+            <DEF>57</DEF>
+            <SPD>105</SPD>
+            <SATK>95</SATK>
+            <SDEF>85</SDEF>
+        </baseStats>
+        <experience>453</experience>
+        <dex>125</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>MAGMAR</species>
+        <type>Fuego</type>
+        <abilities>
+            <ability>Cuerpo llama</ability>
+            <dream>Espiritu vital</dream>
+        </abilities>
+        <baseStats>
+            <HP>65</HP>
+            <ATK>95</ATK>
+            <DEF>57</DEF>
+            <SPD>93</SPD>
+            <SATK>100</SATK>
+            <SDEF>85</SDEF>
+        </baseStats>
+        <experience>453</experience>
+        <dex>126</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>PINSIR</species>
+        <type>Bicho</type>
+        <abilities>
+            <ability>Corte fuerte</ability>
+            <dream>Autoestima</dream>
+        </abilities>
+        <baseStats>
+            <HP>65</HP>
+            <ATK>125</ATK>
+            <DEF>100</DEF>
+            <SPD>85</SPD>
+            <SATK>55</SATK>
+            <SDEF>70</SDEF>
+        </baseStats>
+        <experience>541</experience>
+        <dex>127</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>TAUROS</species>
+        <type>Normal</type>
+        <abilities>
+            <ability>Intimidacion</ability>
+            <dream>Potencia bruta</dream>
+        </abilities>
+        <baseStats>
+            <HP>75</HP>
+            <ATK>100</ATK>
+            <DEF>95</DEF>
+            <SPD>110</SPD>
+            <SATK>40</SATK>
+            <SDEF>70</SDEF>
+        </baseStats>
+        <experience>714</experience>
+        <dex>128</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>MAGIKARP</species>
+        <type>Agua</type>
+        <abilities>
+            <ability>Nado rapido</ability>
+            <dream>Cobardia</dream>
+        </abilities>
+        <baseStats>
+            <HP>20</HP>
+            <ATK>10</ATK>
+            <DEF>55</DEF>
+            <SPD>80</SPD>
+            <SATK>15</SATK>
+            <SDEF>20</SDEF>
+        </baseStats>
+        <experience>20</experience>
+        <dex>129</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>GYARADOS</species>
+        <type>Agua</type>
+        <abilities>
+            <ability>Intimidacion</ability>
+            <dream>Autoestima</dream>
+        </abilities>
+        <baseStats>
+            <HP>95</HP>
+            <ATK>125</ATK>
+            <DEF>79</DEF>
+            <SPD>81</SPD>
+            <SATK>60</SATK>
+            <SDEF>100</SDEF>
+        </baseStats>
+        <experience>1540</experience>
+        <dex>130</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>LAPRAS</species>
+        <type>Agua</type>
+        <abilities>
+            <ability>Absorbe agua</ability>
+            <dream>Hidratacion</dream>
+        </abilities>
+        <baseStats>
+            <HP>130</HP>
+            <ATK>85</ATK>
+            <DEF>80</DEF>
+            <SPD>60</SPD>
+            <SATK>85</SATK>
+            <SDEF>95</SDEF>
+        </baseStats>
+        <experience>1540</experience>
+        <dex>131</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>DITTO</species>
+        <type>Normal</type>
+        <abilities>
+            <ability>Flexibilidad</ability>
+            <dream>Impostor</dream>
+        </abilities>
+        <baseStats>
+            <HP>48</HP>
+            <ATK>48</ATK>
+            <DEF>48</DEF>
+            <SPD>48</SPD>
+            <SATK>48</SATK>
+            <SDEF>48</SDEF>
+        </baseStats>
+        <experience>48</experience>
+        <dex>132</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>EEVEE</species>
+        <type>Normal</type>
+        <abilities>
+            <ability>Fuga</ability>
+            <dream>Anticipacion</dream>
+        </abilities>
+        <baseStats>
+            <HP>55</HP>
+            <ATK>55</ATK>
+            <DEF>50</DEF>
+            <SPD>55</SPD>
+            <SATK>45</SATK>
+            <SDEF>65</SDEF>
+        </baseStats>
+        <experience>547</experience>
+        <dex>133</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>VAPOREON</species>
+        <type>Agua</type>
+        <abilities>
+            <ability>Absorbe agua</ability>
+            <dream>Hidratacion</dream>
+        </abilities>
+        <baseStats>
+            <HP>130</HP>
+            <ATK>65</ATK>
+            <DEF>60</DEF>
+            <SPD>110</SPD>
+            <SATK>110</SATK>
+            <SDEF>95</SDEF>
+        </baseStats>
+        <experience>875</experience>
+        <dex>134</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>JOLTEON</species>
+        <type>Electrico</type>
+        <abilities>
+            <ability>Absorbe electricidad</ability>
+            <dream>Pies rapidos</dream>
+        </abilities>
+        <baseStats>
+            <HP>65</HP>
+            <ATK>65</ATK>
+            <DEF>60</DEF>
+            <SPD>130</SPD>
+            <SATK>110</SATK>
+            <SDEF>95</SDEF>
+        </baseStats>
+        <experience>745</experience>
+        <dex>135</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>FLAREON</species>
+        <type>Fuego</type>
+        <abilities>
+            <ability>Absorbe fuego</ability>
+            <dream>Agallas</dream>
+        </abilities>
+        <baseStats>
+            <HP>65</HP>
+            <ATK>130</ATK>
+            <DEF>60</DEF>
+            <SPD>65</SPD>
+            <SATK>95</SATK>
+            <SDEF>110</SDEF>
+        </baseStats>
+        <experience>795</experience>
+        <dex>136</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>PORYGON</species>
+        <type>Normal</type>
+        <abilities>
+            <ability>Rastro</ability>
+            <dream>Calculo final</dream>
+        </abilities>
+        <baseStats>
+            <HP>65</HP>
+            <ATK>60</ATK>
+            <DEF>70</DEF>
+            <SPD>85</SPD>
+            <SATK>70</SATK>
+            <SDEF>70</SDEF>
+        </baseStats>
+        <experience>642</experience>
+        <dex>137</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>OMANYTE</species>
+        <type>Roca</type>
+        <abilities>
+            <ability>Nado rapido</ability>
+            <dream>Armadura fragil</dream>
+        </abilities>
+        <baseStats>
+            <HP>35</HP>
+            <ATK>40</ATK>
+            <DEF>100</DEF>
+            <SPD>35</SPD>
+            <SATK>90</SATK>
+            <SDEF>55</SDEF>
+        </baseStats>
+        <experience>462</experience>
+        <dex>138</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>OMASTAR</species>
+        <type>Roca</type>
+        <abilities>
+            <ability>Nado rapido</ability>
+            <dream>Armadura fragil</dream>
+        </abilities>
+        <baseStats>
+            <HP>70</HP>
+            <ATK>60</ATK>
+            <DEF>125</DEF>
+            <SPD>55</SPD>
+            <SATK>115</SATK>
+            <SDEF>70</SDEF>
+        </baseStats>
+        <experience>1320</experience>
+        <dex>139</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>KABUTO</species>
+        <type>Roca</type>
+        <abilities>
+            <ability>Nado rapido</ability>
+            <dream>Armadura fragil</dream>
+        </abilities>
+        <baseStats>
+            <HP>30</HP>
+            <ATK>80</ATK>
+            <DEF>90</DEF>
+            <SPD>55</SPD>
+            <SATK>45</SATK>
+            <SDEF>55</SDEF>
+        </baseStats>
+        <experience>542</experience>
+        <dex>140</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>KABUTOPS</species>
+        <type>Roca</type>
+        <abilities>
+            <ability>Nado rapido</ability>
+            <dream>Armadura fragil</dream>
+        </abilities>
+        <baseStats>
+            <HP>60</HP>
+            <ATK>115</ATK>
+            <DEF>105</DEF>
+            <SPD>80</SPD>
+            <SATK>65</SATK>
+            <SDEF>70</SDEF>
+        </baseStats>
+        <experience>952</experience>
+        <dex>141</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>AERODACTIL</species>
+        <type>Roca</type>
+        <abilities>
+            <ability>Cabeza roca</ability>
+            <dream>Nerviosismo</dream>
+        </abilities>
+        <baseStats>
+            <HP>80</HP>
+            <ATK>105</ATK>
+            <DEF>65</DEF>
+            <SPD>130</SPD>
+            <SATK>60</SATK>
+            <SDEF>75</SDEF>
+        </baseStats>
+        <experience>865</experience>
+        <dex>142</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>SNORLAX</species>
+        <type>Normal</type>
+        <abilities>
+            <ability>Sebo</ability>
+            <dream>Gula</dream>
+        </abilities>
+        <baseStats>
+            <HP>160</HP>
+            <ATK>110</ATK>
+            <DEF>65</DEF>
+            <SPD>30</SPD>
+            <SATK>65</SATK>
+            <SDEF>110</SDEF>
+        </baseStats>
+        <experience>2581</experience>
+        <dex>143</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>ARTICUNO</species>
+        <type>Hielo</type>
+        <abilities>
+            <ability>Presion</ability>
+            <dream>Manto niveo</dream>
+        </abilities>
+        <baseStats>
+            <HP>90</HP>
+            <ATK>85</ATK>
+            <DEF>100</DEF>
+            <SPD>85</SPD>
+            <SATK>95</SATK>
+            <SDEF>125</SDEF>
+        </baseStats>
+        <experience>1352</experience>
+        <dex>144</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>ZAPDOS</species>
+        <type>Electrico</type>
+        <abilities>
+            <ability>Presion</ability>
+            <dream>Pararrayos</dream>
+        </abilities>
+        <baseStats>
+            <HP>90</HP>
+            <ATK>90</ATK>
+            <DEF>85</DEF>
+            <SPD>100</SPD>
+            <SATK>125</SATK>
+            <SDEF>90</SDEF>
+        </baseStats>
+        <experience>1257</experience>
+        <dex>145</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>MOLTRES</species>
+        <type>Fuego</type>
+        <abilities>
+            <ability>Presion</ability>
+            <dream>Cuerpo llama</dream>
+        </abilities>
+        <baseStats>
+            <HP>90</HP>
+            <ATK>100</ATK>
+            <DEF>90</DEF>
+            <SPD>90</SPD>
+            <SATK>125</SATK>
+            <SDEF>85</SDEF>
+        </baseStats>
+        <experience>1243</experience>
+        <dex>146</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>DRATINI</species>
+        <type>Dragon</type>
+        <abilities>
+            <ability>Mudar</ability>
+            <dream>Escama espora</dream>
+        </abilities>
+        <baseStats>
+            <HP>41</HP>
+            <ATK>64</ATK>
+            <DEF>45</DEF>
+            <SPD>50</SPD>
+            <SATK>50</SATK>
+            <SDEF>50</SDEF>
+        </baseStats>
+        <experience>368</experience>
+        <dex>147</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>DRAGONAIR</species>
+        <type>Dragon</type>
+        <abilities>
+            <ability>Mudar</ability>
+            <dream>Escama espora</dream>
+        </abilities>
+        <baseStats>
+            <HP>61</HP>
+            <ATK>84</ATK>
+            <DEF>65</DEF>
+            <SPD>70</SPD>
+            <SATK>70</SATK>
+            <SDEF>70</SDEF>
+        </baseStats>
+        <experience>865</experience>
+        <dex>148</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>DRAGONITE</species>
+        <type>Dragon</type>
+        <abilities>
+            <ability>Foco interno</ability>
+            <dream>Compensacion</dream>
+        </abilities>
+        <baseStats>
+            <HP>91</HP>
+            <ATK>134</ATK>
+            <DEF>95</DEF>
+            <SPD>80</SPD>
+            <SATK>100</SATK>
+            <SDEF>100</SDEF>
+        </baseStats>
+        <experience>1350</experience>
+        <dex>149</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>MEWTWO</species>
+        <type>Psiquico</type>
+        <abilities>
+            <ability>Presion</ability>
+            <dream>Nerviosismo</dream>
+        </abilities>
+        <baseStats>
+            <HP>106</HP>
+            <ATK>110</ATK>
+            <DEF>90</DEF>
+            <SPD>130</SPD>
+            <SATK>154</SATK>
+            <SDEF>90</SDEF>
+        </baseStats>
+        <experience>1024</experience>
+        <dex>150</dex>
+    </pokemon>
+    
+    <pokemon>
+    
+        <species>MEW</species>
+        <type>Psiquico</type>
+        <abilities>
+            <ability>Sincronia</ability>
+            <dream>Sincronia</dream>
+        </abilities>
+        <baseStats>
+            <HP>100</HP>
+            <ATK>100</ATK>
+            <DEF>100</DEF>
+            <SPD>100</SPD>
+            <SATK>100</SATK>
+            <SDEF>100</SDEF>
+        </baseStats>
+        <experience>951</experience>
+        <dex>151</dex>
+    </pokemon>
+</pokedex>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    

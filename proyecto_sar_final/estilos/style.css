@@ -1,0 +1,45 @@
+@charset "utf-8";
+* 						{margin: 0; padding: 0;}
+body				{  background: #87CEEB;background-image: url("../imagenes/pokeball.png");}
+
+
+#page-wrap				{margin: 3% auto; color: white; }
+#page-wrap >.main 		{border: 1px solid #999; padding: 1%;
+						 margin-bottom: 1px; color: black;}
+
+section > div				{padding: 40px;}
+header, nav, section		{background: #f7c6c6; text-align: center;}
+footer					{background: #f7c6c6; text-align: center;}
+nav span             				{ margin: 10x 0px 0px 0px;
+						width: 100%;
+						display: inline-block;}
+#h1 							{font: 16px Georgia, serif; }
+h3 					{font: 14px Georgia, serif; }
+
+#ErrorMsgs          		 { color: #f61; font-size: smaler}
+
+#mas  {display: none;} 
+input.casilla
+{
+	width: 15px;
+	height: 15px;
+}
+
+.ocultado{
+	display: none;
+}
+.casillas{
+	
+	display: block;
+	text-align: left;
+	
+}
+.casilla{
+	
+	padding: 40px;
+	margin: 15px 10px 10px 10px;
+}
+label{
+	margin: 5px 0px 0px 4px;
+}
+#tabla {align: center;} 
